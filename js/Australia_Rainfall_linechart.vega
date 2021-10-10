@@ -1,0 +1,127 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 450,
+    "height": 300,
+    "title": "Average Maximum Temperature For All States In Each Month",
+    "data": {
+    "url": "https://raw.githubusercontent.com/adamL23/FIT3179-Homework-Week10/main/data/Australia_RainFall_maxTemp.csv"
+    },
+    "params": [
+        {
+            "name": "state_selection",
+            "value": "Victoria",
+            "bind":{
+                "input": "select",
+                "options": [
+                    "Victoria",
+                    "New South Wales",
+                    "Tasmania",
+                    "Queensland",
+                    "Australian Capital Territory",
+                    "Northern Territory",
+                    "South Australia",
+                    "Western Australia"
+                ],
+                "labels": [
+                    "Victoria",
+                    "New South Wales",
+                    "Tasmania",
+                    "Queensland",
+                    "Australian Capital Territory",
+                    "Northern Territory",
+                    "South Australia",
+                    "Western Australia"
+                ],
+                "name": "State Selection: "
+            }
+        },
+        {
+            "name": "year_selection",
+            "value": 2019,
+            "bind":{
+                "input": "select",
+                "options":[
+                    "2019",
+                    "2020"
+                ],
+                "labels": [
+                    "2019",
+                    "2020"
+                ],
+                "name": "Year Selection: "
+            }
+        }
+    ],
+    "transform": [
+        {"filter": "state_selection == null || datum.state == state_selection"},
+        {"filter": "year_selection == null || datum.year == year_selection"}
+    ],
+    "encoding": {
+    "x": {
+    "field": "month",
+    "type": "nominal",
+    "sort": ["January", "February", "March", "April", "May", "June", "July",
+    "August", "September", "October", "November", "December"],
+    "title": "Month",
+    "axis": {"tickCount": 7}
+    },
+    "y": {
+    "field": "maxTemp",
+    "type": "quantitative",
+    "title": "Average Maximum Temperature",
+    "axis": {"tickCount":6}
+    }
+    },
+    "layer": [
+        {
+            "mark": {
+                "type": "line",
+                "point": true
+            },
+            "encoding": {
+
+                "color":{
+                    "field": "state",
+                    "type": "nominal",
+                    "scale":{
+                        "domain":[
+                            "Victoria",
+                            "New South Wales",
+                            "Tasmania",
+                            "Queensland",
+                            "Australian Capital Territory",
+                            "Northern Territory",
+                            "South Australia",
+                            "Western Australia"
+                        ]
+                    }
+                },
+                "tooltip":[
+                    {"field": "state", "type": "nominal"},
+                    {"field": "month", "type":"nominal"},
+                    {"field": "maxTemp", "type": "quantitative", "format": ",", "title": "Average Maximum Temperature"}
+                ]
+            }
+        },
+        {
+            "mark":{
+                "type": "text",
+                "align": "right",
+                "baseline": "middle",
+                "dx": -12,
+                "fontSize": 11.5,
+                "fontStyle": "italic"
+            },
+            "encoding": {
+                "text":{"field": "maxTemp", "type": "quantitative", "aggregate":"max", "format":".1f"},
+                "color": {"value": "black"},
+                "tooltip":[
+                    {"field": "state", "type": "nominal"},
+                    {"field": "month", "type":"nominal"},
+                    {"field": "maxTemp", "type": "quantitative", "format": ",", "title": "Average Maximum Temperature"}
+                ]
+            }
+        }
+    ],
+    "config": {}
+   }
