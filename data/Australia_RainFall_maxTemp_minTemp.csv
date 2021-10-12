@@ -1,0 +1,193 @@
+state,year,month,minTemp,maxTemp
+Australian Capital Territory,2019,April,7.455,22.54166667
+New South Wales,2019,April,14.97966102,24.79915254
+Northern Territory,2019,April,19.56470588,32.04705882
+Queensland,2019,April,20.26752137,28.28205128
+South Australia,2019,April,11.04957983,23.76638655
+Tasmania,2019,April,8.146666667,19.07
+Victoria,2019,April,9.655,22.58833333
+Western Australia,2019,April,15.76350877,26.75701754
+Australian Capital Territory,2020,April,7.855,18.965
+New South Wales,2020,April,14.56293103,24.41465517
+Northern Territory,2020,April,21.16888889,33.31555556
+Queensland,2020,April,20.42184874,29.51344538
+South Australia,2020,April,11.04537815,21.37394958
+Tasmania,2020,April,9.804597701,17.16781609
+Victoria,2020,April,9.101666667,18.69916667
+Western Australia,2020,April,17.55384615,28.06634615
+Australian Capital Territory,2019,August,0.266129032,14.11612903
+New South Wales,2019,August,8.025833333,19.6175
+Northern Territory,2019,August,12.24615385,26.80659341
+Queensland,2019,August,13.93951613,25.23951613
+South Australia,2019,August,5.735294118,15.86386555
+Tasmania,2019,August,3.493478261,13.58152174
+Victoria,2019,August,3.820661157,13.16115702
+Western Australia,2019,August,9.7425,22.16833333
+Australian Capital Territory,2020,August,1.564516129,12.83225806
+New South Wales,2020,August,8.138965517,19.22344828
+Northern Territory,2020,August,15.04222222,29.74
+Queensland,2020,August,14.31311475,25.39262295
+South Australia,2020,August,5.553488372,16.17325581
+Tasmania,2020,August,4.550537634,13.6516129
+Victoria,2020,August,4.564150943,14.17264151
+Western Australia,2020,August,10.29121951,21.75772358
+Australian Capital Territory,2019,December,13.27096774,31.46129032
+New South Wales,2019,December,17.65272727,28.49363636
+Northern Territory,2019,December,25.31075269,39.16774194
+Queensland,2019,December,22.60243902,31.59349593
+South Australia,2019,December,14.41239669,29.48760331
+Tasmania,2019,December,10.95376344,22.02580645
+Victoria,2019,December,13.11229508,28.45163934
+Western Australia,2019,December,21.06495726,33.02905983
+Australian Capital Territory,2020,December,11.81290323,25.34032258
+New South Wales,2020,December,17.30758621,25.96436782
+Northern Territory,2020,December,23.59204545,33.61818182
+Queensland,2020,December,23.30082645,30.82479339
+South Australia,2020,December,12.67362637,24.94175824
+Tasmania,2020,December,10.41075269,20.61182796
+Victoria,2020,December,11.42096774,24.89596774
+Western Australia,2020,December,18.9425,29.62413793
+Australian Capital Territory,2019,February,13.12678571,29.03035714
+New South Wales,2019,February,18.9981982,28.26936937
+Northern Territory,2019,February,24.23571429,36.80714286
+Queensland,2019,February,23.14339623,31.63207547
+South Australia,2019,February,14.76160714,28.87053571
+Tasmania,2019,February,12.68809524,23.14166667
+Victoria,2019,February,14.0036036,28.72522523
+Western Australia,2019,February,20.36576577,30.63873874
+Australian Capital Territory,2020,February,15.17931034,27.44482759
+New South Wales,2020,February,19.61150442,27.27699115
+Northern Territory,2020,February,25.0744186,35.95
+Queensland,2020,February,23.89478261,31.31826087
+South Australia,2020,February,15.19913043,26.39304348
+Tasmania,2020,February,12.27674419,22.13837209
+Victoria,2020,February,15.20431034,26.91637931
+Western Australia,2020,February,21.2626087,30.29217391
+Australian Capital Territory,2019,January,17.84032258,34.26774194
+New South Wales,2019,January,21.18696078,29.93529412
+Northern Territory,2019,January,26.16483516,38.52857143
+Queensland,2019,January,23.2601626,30.99186992
+South Australia,2019,January,16.36048387,31.94596774
+Tasmania,2019,January,14.03296703,25.74175824
+Victoria,2019,January,16.93333333,32.90916667
+Western Australia,2019,January,19.31654545,29.93545455
+Australian Capital Territory,2020,January,15.18064516,31.50806452
+New South Wales,2020,January,20.36198347,29.18347107
+Northern Territory,2020,January,25.53333333,36.43333333
+Queensland,2020,January,23.68103448,31.32413793
+South Australia,2020,January,14.80887097,28.71774194
+Tasmania,2020,January,13.32473118,23.84086022
+Victoria,2020,January,14.38870968,29.31935484
+Western Australia,2020,January,20.07622951,30.17295082
+Australian Capital Territory,2019,July,0.520967742,13.62580645
+New South Wales,2019,July,8.212612613,19.05855856
+Northern Territory,2019,July,12.11978022,26.84945055
+Queensland,2019,July,13.62113821,24.47886179
+South Australia,2019,July,7.345,16.17
+Tasmania,2019,July,5.207692308,13.38131868
+Victoria,2019,July,5.250406504,13.24308943
+Western Australia,2019,July,9.088709677,21.45080645
+Australian Capital Territory,2020,July,4.250819672,17.94918033
+New South Wales,2020,July,8.73754386,17.92192982
+Northern Territory,2020,July,11.36923077,25.68461538
+Queensland,2020,July,13.84628099,23.76115702
+South Australia,2020,July,4.53442623,15.62295082
+Tasmania,2020,July,3.434090909,13.0375
+Victoria,2020,July,4.010483871,13.06048387
+Western Australia,2020,July,9.759669421,21.66942149
+Australian Capital Territory,2019,June,-0.176666667,13.87333333
+New South Wales,2019,June,9.178947368,18.34561404
+Northern Territory,2019,June,11.75930233,25.21395349
+Queensland,2019,June,15.13220339,24.23305085
+South Australia,2019,June,5.991525424,16.04067797
+Tasmania,2019,June,3.696666667,13.6
+Victoria,2019,June,4.525641026,13.64444444
+Western Australia,2019,June,10.1210084,21.32184874
+Australian Capital Territory,2020,June,1.061666667,13.555
+New South Wales,2020,June,9.2375,18.47857143
+Northern Territory,2020,June,12.94756098,26.5304878
+Queensland,2020,June,15.91981982,24.60720721
+South Australia,2020,June,5.66460177,15.73185841
+Tasmania,2020,June,5.027058824,13.19058824
+Victoria,2020,June,4.110833333,13.35583333
+Western Australia,2020,June,10.94495413,22.75504587
+Australian Capital Territory,2019,March,12.17258065,25.8016129
+New South Wales,2019,March,18.5107438,27.23884298
+Northern Territory,2019,March,23.65617978,36.01348315
+Queensland,2019,March,22.8175,30.52333333
+South Australia,2019,March,13.86048387,26.72822581
+Tasmania,2019,March,11.35376344,22.02258065
+Victoria,2019,March,13.35322581,26.53790323
+Western Australia,2019,March,19.4112069,29.21465517
+Australian Capital Territory,2020,March,10.86885246,23.37704918
+New South Wales,2020,March,16.8720339,25.47372881
+Northern Territory,2020,March,22.43296703,33.83956044
+Queensland,2020,March,22.07017544,29.9
+South Australia,2020,March,13.62903226,25.44193548
+Tasmania,2020,March,10.56067416,20.29101124
+Victoria,2020,March,12.30564516,24.10725806
+Western Australia,2020,March,19.63983051,29.55338983
+Australian Capital Territory,2019,May,3.127419355,16.50322581
+New South Wales,2019,May,11.36446281,22.17438017
+Northern Territory,2019,May,16.42777778,28.24222222
+Queensland,2019,May,17.54590164,26.42295082
+South Australia,2019,May,8.623140496,18.69421488
+Tasmania,2019,May,7.010989011,15.80659341
+Victoria,2019,May,7.210569106,16.3495935
+Western Australia,2019,May,10.89512195,24.08943089
+Australian Capital Territory,2020,May,2.787096774,15.07096774
+New South Wales,2020,May,10.61803279,20.06065574
+Northern Territory,2020,May,14.77608696,26.92826087
+Queensland,2020,May,16.30406504,25.42357724
+South Australia,2020,May,7.607258065,17.43709677
+Tasmania,2020,May,7.001176471,15.25529412
+Victoria,2020,May,5.470967742,15.23467742
+Western Australia,2020,May,11.6970297,24.01287129
+Australian Capital Territory,2019,November,9.425,26.49833333
+New South Wales,2019,November,15.4773913,27.4773913
+Northern Territory,2019,November,22.59770115,36.04827586
+Queensland,2019,November,21.01489362,30.92978723
+South Australia,2019,November,10.53644068,23.73050847
+Tasmania,2019,November,8.729213483,19.06292135
+Victoria,2019,November,9.202521008,23.11932773
+Western Australia,2019,November,17.0575,29.3375
+Australian Capital Territory,2020,November,10.65833333,25.19166667
+New South Wales,2020,November,15.65411765,26.64588235
+Northern Territory,2020,November,24.69886364,37.76590909
+Queensland,2020,November,21.01896552,29.90862069
+South Australia,2020,November,12.03333333,27.43777778
+Tasmania,2020,November,11.06555556,21.58111111
+Victoria,2020,November,12.29666667,25.79583333
+Western Australia,2020,November,17.10442478,27.88690265
+Australian Capital Territory,2019,October,6.143548387,23.43709677
+New South Wales,2019,October,13.3279661,24.8440678
+Northern Territory,2019,October,21.28043478,35.30978261
+Queensland,2019,October,18.58148148,28.2787037
+South Australia,2019,October,9.57295082,23.75983607
+Tasmania,2019,October,6.897849462,18.09569892
+Victoria,2019,October,8.118699187,21.9804878
+Western Australia,2019,October,15.29918033,26.71311475
+Australian Capital Territory,2020,October,8.808064516,20.41774194
+New South Wales,2020,October,14.27272727,24.175
+Northern Territory,2020,October,21.03095238,33.21904762
+Queensland,2020,October,19.23504274,28.76239316
+South Australia,2020,October,9.486021505,20.75806452
+Tasmania,2020,October,8.196774194,16.69892473
+Victoria,2020,October,9.183064516,19.9
+Western Australia,2020,October,14.46186441,25.88898305
+Australian Capital Territory,2019,September,2.265,18.69166667
+New South Wales,2019,September,10.8122807,22.05087719
+Northern Territory,2019,September,16.21882353,31.16
+Queensland,2019,September,15.08290598,27.52820513
+South Australia,2019,September,7.112612613,19.17207207
+Tasmania,2019,September,5.840909091,15.9875
+Victoria,2019,September,5.440833333,16.68083333
+Western Australia,2019,September,11.79333333,25.14916667
+Australian Capital Territory,2020,September,4.891525424,17.53559322
+New South Wales,2020,September,11.47785714,22.68095238
+Northern Territory,2020,September,19.51818182,33.41022727
+Queensland,2020,September,17.4940678,26.84237288
+South Australia,2020,September,8.31,19.68666667
+Tasmania,2020,September,6.634444444,15.77
+Victoria,2020,September,6.9575,17.30333333
+Western Australia,2020,September,12.85294118,24.24789916
